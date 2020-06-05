@@ -1,3 +1,15 @@
+# Project README
+
+A tutorial on using react and material-ui project under the context of making a portfolio website.
+
+Tutorial from [React Material UI](https://www.youtube.com/watch?v=9Q555VoPe4M&list=PL6jnTQwFvrdagHlsZJFYBW_s-khY3sXYP) from [80/20 Coding](https://www.youtube.com/channel/UCobZg0ym72ZZPqOQNB_qJnw)
+
+
+
+
+---
+# React README
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
