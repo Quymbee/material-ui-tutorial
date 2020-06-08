@@ -23,6 +23,7 @@ import { makeStyles } from '@material-ui/core/styles';
 import MobileRightMenu from '@material-ui/core/Drawer';
 import avatar from '../portfolio-project-files/avatar.png';
 import { Link } from 'react-router-dom';
+import Footer from './Footer';
 
 // CSS Styles
 const useStyles = makeStyles((theme) => ({
@@ -117,6 +118,7 @@ const Navbar = () => {
               onClose={toggleSlider('left', false)}
             >
               {sideList('left')}
+              <Footer />
             </MobileRightMenu>
           </Toolbar>
         </AppBar>
